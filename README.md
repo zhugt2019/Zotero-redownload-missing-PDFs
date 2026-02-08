@@ -25,4 +25,4 @@ Have you switched to a new computer and found that, after syncing, your attachme
 
 4. 点击 执行 按钮
 
-5. 确认开始扫描并处理整个文献库
+5. 确认开始扫描并处理整个文献库，检测并删除失效的pdf文件后，会重新下载pdf
